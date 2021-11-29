@@ -1,5 +1,8 @@
 # Gladson
-This is the first repository
+This is the first repository.
+
+//baic c program
+
 #include<stdio.h>
 int main()
 {
